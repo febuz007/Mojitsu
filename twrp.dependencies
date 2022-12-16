@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "febuz007/kernel_xiaomi_mojito",
+    "target_path": "kernel/xiaomi/mojito",
+    "revision": "main"
+  }
+]
